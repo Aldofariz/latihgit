@@ -1,4 +1,4 @@
-# Guide peertama kali push github
+# Guide pertama kali push github
 1. git init
 perintah ini berfungsi untuk menginisiasi .git repository di direktori kita
 2. git add .
